@@ -1,16 +1,21 @@
-## Hi there 👋
+### Yo, я OverLessArtem 👾
 
-<!--
-**OverLessArtem/OverLessArtem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+малолетний мальчик, который делает всякую дичь в Linux'ах.  
+возился с: `Gentoo`, `Arch`, `Fedora`, чуть ковырял `Alpine`.  
+форкаю то, что интересно. делаю как чувствуется.  
+иногда собираю кастом прошивки под Android 15 — потому что почему бы и нет.
 
-Here are some ideas to get you started:
+> «работает? — не трогай.»
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⚙️ CLI > GUI  
+🐧 Linux — моё всё  
+📱 Android тоже люблю — особенно собирать кастомы  
+🧠 учусь, потому что интересно  
+🧰 minimal vibes only
+
+---
+
+```bash
+$ echo "Просто ещё один пользователь GNU/Linux и кастомщик Android"
