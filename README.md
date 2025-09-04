@@ -19,7 +19,7 @@
 - 📩 ыыыы в Discord или Telegram. Пиши, если что..
 
 ## ТГ
-![QR-Код](tg.jpg)
+<img src="tg.jpg" alt="мой ТГ" width="200"/>
 
 ## Бейджи
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
