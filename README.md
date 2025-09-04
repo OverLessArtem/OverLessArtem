@@ -18,6 +18,9 @@
 ## Где меня найти
 - 📩 ыыыы в Discord или Telegram. Пиши, если что..
 
+## ТГ
+![QR-Код](tg.jpg)
+
 ## Бейджи
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash)
