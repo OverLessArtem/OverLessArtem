@@ -16,7 +16,7 @@
 - **Дистры**: Gentoo, Arch, Fedora, Opensuse.
 
 ## Где меня найти
-- 📩 ыыыы в Discord или Telegram. Пиши, если что.. (Telegram https://t.me/@OverLessArtem)
+- 📩 ыыыы в Discord или Telegram. Пиши, если что..
 
 ## Бейджи
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
