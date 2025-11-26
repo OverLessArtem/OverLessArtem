@@ -3,4 +3,6 @@
 
 ![blat](https://raw.githubusercontent.com/OverLessArtem/OverLessArtem/refs/heads/main/image.jpg)
 
-TG: [Telegram](https://t.me/OverLessArtem)
+<div align="center">
+  TG: [Telegram](https://t.me/OverLessArtem)
+</div>
