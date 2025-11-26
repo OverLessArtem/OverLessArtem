@@ -1,8 +1,3 @@
+<img width="300" height="300" alt="изображение" src="https://raw.githubusercontent.com/OverLessArtem/OverLessArtem/refs/heads/main/image.jpg" />
 
-<div align="center">
-  ![blat](https://raw.githubusercontent.com/OverLessArtem/OverLessArtem/refs/heads/main/image.jpg)
-</div>
-
-<div align="center">
-  TG: [Telegram](https://t.me/OverLessArtem)
-</div>
+TG: [Telegram](https://t.me/OverLessArtem)
