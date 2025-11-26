@@ -1,4 +1,4 @@
 
 </div>
 
-![bla](https://github.com/OverLessArtem/OverLessArtem/blob/main/image.jpg?raw=true)
+![bla](https://raw.githubusercontent.com/OverLessArtem/OverLessArtem/refs/heads/main/image.jpg)
