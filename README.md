@@ -2,4 +2,4 @@
 
 TG: [Telegram](https://t.me/OverLessArtem)
 
-I build random funny shit for Gentoo Linux
+I build random funny shit for Linux
